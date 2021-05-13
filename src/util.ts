@@ -24,5 +24,3 @@ export const showAlert = (
     },
   });
 };
-
-// showAlert(response.data?.data?.message, 'error');
